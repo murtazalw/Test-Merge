@@ -5,7 +5,7 @@ public class MasterA {
 	int j;
 
 	public static void main(String[] args) {
-		System.out.println("big master");
+		System.out.println("big master 1");
 		new Size().getSize();
 	}
 }
