@@ -5,5 +5,6 @@ public class Size {
 		System.out.println("big");
 		System.out.println("small");
 		System.out.println("medium");
+		System.out.println("Large");
 	}
 }
