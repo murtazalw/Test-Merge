@@ -8,5 +8,6 @@ public class MasterA {
 		System.out.println("big master 1");
 		new Size().getSize();
 		new Size().getSize();
+		new Size().getSize();
 	}
 }
