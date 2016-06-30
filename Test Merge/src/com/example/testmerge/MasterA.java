@@ -10,5 +10,6 @@ public class MasterA {
 		new Size().getSize();
 		new Size().getSize();
 		new Size().getSize();
+		new Size().getSize();
 	}
 }
