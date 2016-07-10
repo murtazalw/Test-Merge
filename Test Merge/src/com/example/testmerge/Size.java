@@ -6,5 +6,6 @@ public class Size {
 		System.out.println("small");
 		System.out.println("medium");
 		System.out.println("Large");
+		System.out.println("XLarge");
 	}
 }
